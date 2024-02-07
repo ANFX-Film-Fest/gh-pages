@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ANFX Film Fest",
+    "description": "",
+    "home_page_url": "https://anfx-film-fest.github.io/gh-pages",
+    "feed_url": "https://anfx-film-fest.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kevin Romond"
+    },
+    "items": [
+        {
+            "id": "https://anfx-film-fest.github.io/gh-pages/testing-one-two-three.html",
+            "url": "https://anfx-film-fest.github.io/gh-pages/testing-one-two-three.html",
+            "title": "testing one two three",
+            "summary": "slkjdkfj another block",
+            "content_html": "\n  <p>\n    \n  </p>\n\n  <p>\n    slkjdkfj\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    another block\n  </p>",
+            "author": {
+                "name": "Kevin Romond"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-08T11:19:53+13:00",
+            "date_modified": "2024-02-08T11:19:53+13:00"
+        }
+    ]
+}

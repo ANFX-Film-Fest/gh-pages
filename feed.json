@@ -11,17 +11,60 @@
     },
     "items": [
         {
+            "id": "https://anfx-film-fest.github.io/gh-pages/contact.html",
+            "url": "https://anfx-film-fest.github.io/gh-pages/contact.html",
+            "title": "Contact",
+            "summary": "Coming soon!",
+            "content_html": "\n  <p>\n    Coming soon!\n  </p>",
+            "author": {
+                "name": "Kevin Romond"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-09T09:22:09+13:00",
+            "date_modified": "2024-02-09T09:22:09+13:00"
+        },
+        {
+            "id": "https://anfx-film-fest.github.io/gh-pages/about.html",
+            "url": "https://anfx-film-fest.github.io/gh-pages/about.html",
+            "title": "About",
+            "summary": "The *ANFX Film Festival* is an annual film festival celebrating animation and visual effects in Aotearoa New Zealand, alongside a sample of international&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://anfx-film-fest.github.io/gh-pages/media/posts/4/couple-factory-sq.jpg\" height=\"1024\" width=\"1024\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-xs.jpg 300w ,https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-sm.jpg 480w ,https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-md.jpg 768w ,https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-lg.jpg 1024w ,https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-xl.jpg 1360w ,https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-2xl.jpg 1600w\">\n      \n    </figure>\n\n  <p>\n    The *ANFX Film Festival* is an annual film festival celebrating animation and visual effects in Aotearoa New Zealand, alongside a sample of international animation.  \n<br>\n<br>The festival showcases the very best of short form animation and VFX in Aotearoa, and focuses especially on young creators, experimental forms, Māori voices and emerging approaches.\n  </p>\n\n  <p>\n    Each year the 2 day festival features a roster of the best local animated and VFX short films, screened at Wellington venues, and includes discussions and interviews with directors and creators. Each year also includes an international sampler or featured guest.\n  </p>\n\n  <p>\n    The festival aims to stimulate new work and bring together animators, creators, directors and teams from across NZ. We exist to foster community, create support systems and networking opportunities and provide a great platform to showcase and celebrate animation and VFX.&nbsp;&nbsp;\n  </p>",
+            "author": {
+                "name": "Kevin Romond"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-09T09:15:40+13:00",
+            "date_modified": "2024-02-09T09:15:40+13:00"
+        },
+        {
+            "id": "https://anfx-film-fest.github.io/gh-pages/submission-details.html",
+            "url": "https://anfx-film-fest.github.io/gh-pages/submission-details.html",
+            "title": "Submission Details",
+            "summary": "What we are looking for Short films not longer than 15 minutes that feature animation and visual effects made within the last two&hellip;",
+            "content_html": "\n    <h2 id=\"what-we-are-looking-for\">\n      What we are looking for\n    </h2>\n\n  <p>\n    Short films not longer than 15 minutes that feature animation and visual effects made within the last two years\n  </p>\n\n    <h2 id=\"how-to-submit-for-2024\">\n      How to submit for 2024\n    </h2>\n\n  <p>\n    Details to follow soon!\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Kevin Romond"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-09T09:12:04+13:00",
+            "date_modified": "2024-02-09T09:20:03+13:00"
+        },
+        {
             "id": "https://anfx-film-fest.github.io/gh-pages/anfx-film-festival-coming-oct-2024.html",
             "url": "https://anfx-film-fest.github.io/gh-pages/anfx-film-festival-coming-oct-2024.html",
             "title": "ANFX Film Festival coming Oct 2024",
             "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/babycarrots.jpg\" data-size=\"1024x585\">\n        <img loading=\"lazy\" src=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/babycarrots-thumbnail.jpg\" height=\"411\" width=\"720\" alt=\"cartoon carrot babies agape\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/caperRats.jpg\" data-size=\"1024x1024\">\n        <img loading=\"lazy\" src=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/caperRats-thumbnail.jpg\" height=\"720\" width=\"720\" alt=\"two rats planning a caper in front of a door\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/couple-factory-sq.jpg\" data-size=\"1024x1024\">\n        <img loading=\"lazy\" src=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/couple-factory-sq-thumbnail.jpg\" height=\"720\" width=\"720\" alt=\"two figures walk to the factories on the horizon\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/donkeydrummer.jpg\" data-size=\"1024x1024\">\n        <img loading=\"lazy\" src=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/donkeydrummer-thumbnail.jpg\" height=\"720\" width=\"720\" alt=\"a cartoon donkey stands on two legs and plays the drum in the village street\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/foxy.jpg\" data-size=\"1024x1024\">\n        <img loading=\"lazy\" src=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/foxy-thumbnail.jpg\" height=\"720\" width=\"720\" alt=\"a foxy or maybe rabbit runs happily\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/goardy.jpg\" data-size=\"1024x585\">\n        <img loading=\"lazy\" src=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/goardy-thumbnail.jpg\" height=\"411\" width=\"720\" alt=\"a gourd-like vegetable character jumps up\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/sunsetCity.jpg\" data-size=\"1024x585\">\n        <img loading=\"lazy\" src=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/sunsetCity-thumbnail.jpg\" height=\"411\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/vegMonster.jpg\" data-size=\"1024x585\">\n        <img loading=\"lazy\" src=\"https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/vegMonster-thumbnail.jpg\" height=\"411\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://anfx-film-fest.github.io/gh-pages/media/posts/2/goardy.jpg",
             "author": {
                 "name": "Kevin Romond"
             },
             "tags": [
             ],
             "date_published": "2024-02-08T15:31:56+13:00",
-            "date_modified": "2024-02-08T15:31:56+13:00"
+            "date_modified": "2024-02-09T09:06:55+13:00"
         }
     ]
 }

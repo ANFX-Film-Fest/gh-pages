@@ -3,12 +3,112 @@
     <title>ANFX Film Fest</title>
     <link href="https://anfx-film-fest.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://anfx-film-fest.github.io/gh-pages" />
-    <updated>2024-02-08T15:31:56+13:00</updated>
+    <updated>2024-02-09T09:22:09+13:00</updated>
     <author>
         <name>Kevin Romond</name>
     </author>
     <id>https://anfx-film-fest.github.io/gh-pages</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Kevin Romond</name>
+        </author>
+        <link href="https://anfx-film-fest.github.io/gh-pages/contact.html"/>
+        <id>https://anfx-film-fest.github.io/gh-pages/contact.html</id>
+
+        <updated>2024-02-09T09:22:09+13:00</updated>
+            <summary>
+                <![CDATA[
+                    Coming soon!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Coming soon!
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Kevin Romond</name>
+        </author>
+        <link href="https://anfx-film-fest.github.io/gh-pages/about.html"/>
+        <id>https://anfx-film-fest.github.io/gh-pages/about.html</id>
+
+        <updated>2024-02-09T09:15:40+13:00</updated>
+            <summary>
+                <![CDATA[
+                    The *ANFX Film Festival* is an annual film festival celebrating animation and visual effects in Aotearoa New Zealand, alongside a sample of international&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://anfx-film-fest.github.io/gh-pages/media/posts/4/couple-factory-sq.jpg" height="1024" width="1024" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-xs.jpg 300w ,https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-sm.jpg 480w ,https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-md.jpg 768w ,https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-lg.jpg 1024w ,https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-xl.jpg 1360w ,https://anfx-film-fest.github.io/gh-pages/media/posts/4/responsive/couple-factory-sq-2xl.jpg 1600w">
+      
+    </figure>
+
+  <p>
+    The *ANFX Film Festival* is an annual film festival celebrating animation and visual effects in Aotearoa New Zealand, alongside a sample of international animation.  
+<br>
+<br>The festival showcases the very best of short form animation and VFX in Aotearoa, and focuses especially on young creators, experimental forms, Māori voices and emerging approaches.
+  </p>
+
+  <p>
+    Each year the 2 day festival features a roster of the best local animated and VFX short films, screened at Wellington venues, and includes discussions and interviews with directors and creators. Each year also includes an international sampler or featured guest.
+  </p>
+
+  <p>
+    The festival aims to stimulate new work and bring together animators, creators, directors and teams from across NZ. We exist to foster community, create support systems and networking opportunities and provide a great platform to showcase and celebrate animation and VFX.&nbsp;&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Submission Details</title>
+        <author>
+            <name>Kevin Romond</name>
+        </author>
+        <link href="https://anfx-film-fest.github.io/gh-pages/submission-details.html"/>
+        <id>https://anfx-film-fest.github.io/gh-pages/submission-details.html</id>
+
+        <updated>2024-02-09T09:20:03+13:00</updated>
+            <summary>
+                <![CDATA[
+                    What we are looking for Short films not longer than 15 minutes that feature animation and visual effects made within the last two&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="what-we-are-looking-for">
+      What we are looking for
+    </h2>
+
+  <p>
+    Short films not longer than 15 minutes that feature animation and visual effects made within the last two years
+  </p>
+
+    <h2 id="how-to-submit-for-2024">
+      How to submit for 2024
+    </h2>
+
+  <p>
+    Details to follow soon!
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ANFX Film Festival coming Oct 2024</title>
         <author>
@@ -16,11 +116,13 @@
         </author>
         <link href="https://anfx-film-fest.github.io/gh-pages/anfx-film-festival-coming-oct-2024.html"/>
         <id>https://anfx-film-fest.github.io/gh-pages/anfx-film-festival-coming-oct-2024.html</id>
+        <media:content url="https://anfx-film-fest.github.io/gh-pages/media/posts/2/goardy.jpg" medium="image" />
 
-        <updated>2024-02-08T15:31:56+13:00</updated>
+        <updated>2024-02-09T09:06:55+13:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://anfx-film-fest.github.io/gh-pages/media/posts/2/goardy.jpg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">

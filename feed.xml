@@ -3,44 +3,70 @@
     <title>ANFX Film Fest</title>
     <link href="https://anfx-film-fest.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://anfx-film-fest.github.io/gh-pages" />
-    <updated>2024-02-08T11:19:53+13:00</updated>
+    <updated>2024-02-08T15:31:56+13:00</updated>
     <author>
         <name>Kevin Romond</name>
     </author>
     <id>https://anfx-film-fest.github.io/gh-pages</id>
 
     <entry>
-        <title>testing one two three</title>
+        <title>ANFX Film Festival coming Oct 2024</title>
         <author>
             <name>Kevin Romond</name>
         </author>
-        <link href="https://anfx-film-fest.github.io/gh-pages/testing-one-two-three.html"/>
-        <id>https://anfx-film-fest.github.io/gh-pages/testing-one-two-three.html</id>
+        <link href="https://anfx-film-fest.github.io/gh-pages/anfx-film-festival-coming-oct-2024.html"/>
+        <id>https://anfx-film-fest.github.io/gh-pages/anfx-film-festival-coming-oct-2024.html</id>
 
-        <updated>2024-02-08T11:19:53+13:00</updated>
-            <summary>
-                <![CDATA[
-                    slkjdkfj another block
-                ]]>
-            </summary>
+        <updated>2024-02-08T15:31:56+13:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 
-  <p>
-    
-  </p>
-
-  <p>
-    slkjdkfj
-  </p>
-
-  <p>
-    
-  </p>
-
-  <p>
-    another block
-  </p>
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/babycarrots.jpg" data-size="1024x585">
+        <img loading="lazy" src="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/babycarrots-thumbnail.jpg" height="411" width="720" alt="cartoon carrot babies agape" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/caperRats.jpg" data-size="1024x1024">
+        <img loading="lazy" src="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/caperRats-thumbnail.jpg" height="720" width="720" alt="two rats planning a caper in front of a door" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/couple-factory-sq.jpg" data-size="1024x1024">
+        <img loading="lazy" src="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/couple-factory-sq-thumbnail.jpg" height="720" width="720" alt="two figures walk to the factories on the horizon" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/donkeydrummer.jpg" data-size="1024x1024">
+        <img loading="lazy" src="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/donkeydrummer-thumbnail.jpg" height="720" width="720" alt="a cartoon donkey stands on two legs and plays the drum in the village street" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/foxy.jpg" data-size="1024x1024">
+        <img loading="lazy" src="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/foxy-thumbnail.jpg" height="720" width="720" alt="a foxy or maybe rabbit runs happily" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/goardy.jpg" data-size="1024x585">
+        <img loading="lazy" src="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/goardy-thumbnail.jpg" height="411" width="720" alt="a gourd-like vegetable character jumps up" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/sunsetCity.jpg" data-size="1024x585">
+        <img loading="lazy" src="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/sunsetCity-thumbnail.jpg" height="411" width="720" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/vegMonster.jpg" data-size="1024x585">
+        <img loading="lazy" src="https://anfx-film-fest.github.io/gh-pages/media/posts/2/gallery/vegMonster-thumbnail.jpg" height="411" width="720" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
             ]]>
         </content>
     </entry>
